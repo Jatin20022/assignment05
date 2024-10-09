@@ -82,7 +82,8 @@ img{
 }
 
 .card a{
-  margin-left: 75px;
+  margin-left: 25%;
+  margin-right: 25%;
 }
 
 #list{
@@ -169,4 +170,12 @@ img{
   width: 100%;
  }
  
+ iframe{
+  width: 200px;
+  height: 200px;
+ }
+
+ .youtube button a{
+  margin-left: 10px;
+ }
 }
